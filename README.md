@@ -2,4 +2,9 @@
 Repository of publicly available data small enough to fit in github 
 
 
-The url for the dirty neurons are https://ArielLevineLabNINDS.github.io/Seq-Seek-classifyData/dirty_neurons.mtx.gz
+In order to download the data use:
+
+wget https://raw.githubusercontent.com/ArielLevineLabNINDS/Seq-Seek-classifyData/master/dirty_neurons_test.mtx.gz
+ - or -
+curl https://raw.githubusercontent.com/ArielLevineLabNINDS/Seq-Seek-classifyData/master/dirty_neurons_test.mtx.gz -o dirty_neurons_test.mtx.gz
+
