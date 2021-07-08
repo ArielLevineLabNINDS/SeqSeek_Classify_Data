@@ -1,4 +1,5 @@
-# Seq-Seek-classifyData
+[![DOI](https://zenodo.org/badge/297349413.svg)](https://zenodo.org/badge/latestdoi/297349413)
+# Seq-Seek-classifyData. 
 Repository of publicly available data small enough to fit in github 
 
 
